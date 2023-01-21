@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "amarres.html",
+    "currentPage": "pactos.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -51,7 +51,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "nvn7n4sneo",
+    "mbrsiteDomain": "vfnzyodmm1",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -67,7 +67,7 @@
     "global_footer_custom": "\n"
   },
   "pages": {
-    "amarres.html": {
+    "inde.html": {
       "settings": {
         "main": true,
         "title": "Amarres de Amor",
@@ -390,7 +390,7 @@
         }
       ]
     },
-    "index.html": {
+    "pactos.html": {
       "settings": {
         "title": "Pactos",
         "meta_descr": "Maestros espirituales especialistas en todo tipo de trabajos, pactos con lucifer.",
